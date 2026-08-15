@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEST ENTRETENIMENT COMPTABLE</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <div class="contenedor-juego">
+        <header>
+            <h1>TEST ENTRETENIMENT COMPTABLE</h1>
+            <p class="subtitulo">Módulo Formativo: MF0981_2 - Registros Contables</p>
+        </header>
+
+        <!-- Selector de Módulo -->
+        <section id="pantalla-inicio" class="tarjeta-modulo">
+            <h2>Selecciona el bloque de entrenamiento:</h2>
+            <div class="grupo-botones-inicio">
+                <!-- Botón Deshabilitado provisionalmente -->
+                <button class="btn-modulo" disabled>Bloque Previo: Recursos Humanos</button>
+
+                <!-- ÚNICO BOTÓN ACTIVO Y FUNCIONAL -->
+                <button class="btn-modulo" onclick="iniciarJuego('mf0981')">MF0981: Registros Contables</button>
+                 
+                <!-- Botón Deshabilitado provisionalmente -->
+                <button class="btn-modulo" disabled>En preparación</button>
+            </div>
+        </section>
+
+        <!-- Interfaz del Test -->
+        <section id="pantalla-test" class="oculto">
+            <div class="barra-progreso">
+                <span id="info-progreso">Pregunta 1 de X</span>
+                <div class="progreso-total"><div id="linea-progreso"></div></div>
+            </div>
+       	
+            <!-- Marcador en tiempo real para el alumno -->
+            <div class="marcador-vivo">
+                <span class="aciertos-vivo">✅ Correctas: <span id="vivo-aciertos">0</span></span>
+                <span class="errores-vivo">❌ Incorrectas: <span id="vivo-errores">0</span></span>
+            </div>
+
+            <div class="tarjeta-pregunta">
+                <p id="texto-pregunta" class="texto-pregunta">Aquí irá la pregunta...</p>
+                <div id="contenedor-opciones" class="contenedor-opciones">
+                    <!-- Los botones de opciones se generarán dinámicamente -->
+                </div>
+            </div>
+
+            <div class="controles-navegacion">
+                <button id="btn-siguiente" class="btn-accion oculto" onclick="siguientePregunta()">Siguiente Pregunta</button>
+            </div>
+        </section>
+
+        <!-- Pantalla de Resultados -->
+        <section id="pantalla-resultados" class="oculto">
+            <div class="tarjeta-resultados">
+                <h2>Evaluación Finalizada</h2>
+                <div class="marcador">
+                    <p>Aciertos: <span id="aciertos">0</span></p>
+                    <p>Errores: <span id="errores">0</span></p>
+                    <p class="nota-final">Nota: <span id="nota-num">0</span> / 10</p>
+                </div>
+                <button class="btn-reiniciar" onclick="volverAlInicio()">Volver a Entrenar</button>
+            </div>
+        </section>
+    </div>
+
+    <script src="appcontable.js"></script>
+</body>
+</html>
