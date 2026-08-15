@@ -158,120 +158,120 @@
 
     {
       
-      pregunta: "Si una empresa adquiere una maquinaria para su producción, ¿en qué gran masa patrimonial se clasifica?",
-      opciones: [
+     "pregunta": "Si una empresa adquiere una maquinaria para su producción, ¿en qué gran masa patrimonial se clasifica?",
+      "opciones": [
         "En el Pasivo Corriente, porque genera una obligación de pago inmediato.",
         "En el Activo, ya que representa un bien económico de larga duración controlado para generar ingresos.",
         "En el Patrimonio Neto, porque incrementa directamente el capital social de los fundadores."
       ],
-      correcta: 1
+      "correcta": 1
     },
 
     
     {
      
-      pregunta: "¿Qué estipula de forma general el principio contable de devengo?",
-      opciones: [
+      "pregunta": "¿Qué estipula de forma general el principio contable de devengo?",
+      "opciones": [
         "Que los ingresos y gastos se registran solo cuando se realiza el cobro o pago en efectivo.",
         "Que los gastos se registran siempre al cierre del año fiscal y los ingresos al inicio.",
         "Que los efectos de las transacciones se registran cuando ocurren, con independencia de la fecha de su cobro o pago."
       ],
-      correcta: 2
+      "correcta": 2
     },
     {
       
-      pregunta: "Si se recibe la factura de la luz de diciembre pero se pagará en enero, ¿cuándo debe registrarse el gasto según el devengo?",
-      opciones: [
+      "pregunta": "Si se recibe la factura de la luz de diciembre pero se pagará en enero, ¿cuándo debe registrarse el gasto según el devengo?",
+      "opciones": [
         "En diciembre, porque es el período en el que se ha producido el consumo real del recurso.",
         "En enero, ya que es el momento exacto en el que sale el dinero de la cuenta corriente de la empresa.",
         "Se distribuye a partes iguales entre ambos meses para no distorsionar el resultado mensual."
       ],
-      correcta: 0
+      "correcta": 0
     },
     
     {
      
-      pregunta: "¿Cuál es la característica principal que define a una Provisión en el balance?",
-      opciones: [
+     "pregunta": "¿Cuál es la característica principal que define a una Provisión en el balance?",
+       "opciones": [
         "Es un pasivo del que existe total certeza sobre su cuantía exacta y su fecha de vencimiento definitiva.",
         "Es un pasivo sobre el que existe incertidumbre acerca de su cuantía o de la fecha exacta en que se deberá cancelar.",
         "Es una cuenta de activo que disminuye de valor debido al uso o al simple paso del tiempo."
       ],
-      correcta: 1
+      "correcta": 1
     },
     {
       
-      pregunta: "¿Por qué un litigio judicial pendiente con alta probabilidad de pérdida genera una provisión y no un pasivo común?",
-      opciones: [
+      "pregunta": "¿Por qué un litigio judicial pendiente con alta probabilidad de pérdida genera una provisión y no un pasivo común?",
+      "correcta": [
         "Porque el importe final a pagar depende de la sentencia judicial y aún no se conoce con total exactitud.",
         "Porque los juzgados no permiten registrar obligaciones financieras de carácter comercial.",
         "Porque representa un derecho de cobro futuro que la empresa debe reclamar ante la ley."
       ],
-      correcta: 0
+      "correcta": 0
     },
 
     
     {
       
-      pregunta: "¿Cuál es la finalidad primordial de elaborar un Balance de Comprobación de sumas y saldos?",
-      opciones: [
+      "pregunta": "¿Cuál es la finalidad primordial de elaborar un Balance de Comprobación de sumas y saldos?",
+      "opciones": [
         "Determinar de forma definitiva el resultado de las pérdidas y ganancias y el impuesto sobre sociedades.",
         "Verificar la concordancia aritmética del libro diario y comprobar que se ha respetado la partida doble.",
         "Sustituir de forma legal al Balance de Situación que se presenta obligatoriamente ante el Registro Mercantil."
       ],
-      correcta: 1
+      "correcta": 1
     },
     {
       
-      pregunta: "Si un balance de comprobación cuadra perfectamente en sus sumas de Debe y Haber, ¿qué significa?",
-      opciones: [
+      "pregunta": "Si un balance de comprobación cuadra perfectamente en sus sumas de Debe y Haber, ¿qué significa?",
+     "opciones": [
         "Que no se ha cometido ningún error de fondo, como registrar una operación en una cuenta equivocada.",
         "Que la empresa ha obtenido beneficios económicos durante el ejercicio analizado.",
         "Que se mantiene la igualdad matemática de la partida doble, aunque existan fallos de clasificación conceptual."
       ],
-      correcta: 2
+      "correcta": 2
     },
    {
       
-      pregunta: "¿Cuándo se debe reconocer contablemente un deterioro de valor en un elemento del inmovilizado?",
-      opciones: [
+       "pregunta":  "¿Cuándo se debe reconocer contablemente un deterioro de valor en un elemento del inmovilizado?",
+     "opciones":[
         "Cuando su valor contable supera a su importe recuperable a través de su uso o venta.",
         "Cuando el valor de mercado del bien se incrementa drásticamente por encima del coste histórico.",
         "Cuando la vida útil estimada del elemento se alarga debido a un mantenimiento óptimo."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
-      pregunta: "Si el importe recuperable de una marca comercial es inferior a su valor en libros, ¿qué acción técnica se debe realizar?",
-      opciones: [
+       "pregunta":  "Si el importe recuperable de una marca comercial es inferior a su valor en libros, ¿qué acción técnica se debe realizar?",
+      "opciones":[
         "Aumentar las amortizaciones del ejercicio de manera proporcional para compensar.",
         "Registrar una corrección valorativa por deterioro, reduciendo el activo con cargo a un gasto del ejercicio.",
         "Ignorar el suceso hasta que la marca se venda de forma definitiva a un tercero."
       ],
-      correcta: 1
+      "correcta": 1
     },
 
     
     {
       
-      pregunta: "¿Cómo se tratan inicialmente las subvenciones oficiales de capital no reintegrables?",
-      opciones: [
+     "pregunta": "¿Cómo se tratan inicialmente las subvenciones oficiales de capital no reintegrables?",
+     "opciones": [
         "Se contabilizan directamente como ingresos de explotación del mes en que se reciben en el banco.",
         "Se imputan de manera directa en el pasivo corriente como deudas con administraciones públicas.",
         "Se registran inicialmente en el patrimonio neto y se imputan a ingresos en proporción a la amortización del bien financiado."
       ],
-      correcta: 2
+      "correcta": 2
     },
     {
       
-      pregunta: "¿Cuál es el motivo técnico por el cual una subvención de capital se lleva a ingresos de forma gradual?",
-      opciones: [
+       "pregunta":  "¿Cuál es el motivo técnico por el cual una subvención de capital se lleva a ingresos de forma gradual?",
+      "opciones":[
         "Para cumplir el principio de correlación de ingresos y gastos con la depreciación del activo asociado.",
         "Para evitar el pago de comisiones bancarias por transferencias de grandes importes estatales.",
         "Porque las normativas fiscales impiden declarar ingresos extraordinarios en el primer trimestre del año."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
@@ -315,7 +315,7 @@
         "Mostrar un desglose detallado de los bienes físicos que posee el almacén en el cierre anual."
       ],
       "correcta": 0
-    }  ,
+    },
   
     {
      
@@ -364,163 +364,162 @@
      
     {
             
-      pregunta: "Según el PGC, si una empresa adquiere un edificio, ¿bajo qué principio contable se prohíbe modificar su valor en libros simplemente porque los precios del mercado inmobiliario hayan subido?",
-      opciones: [
+     "pregunta":  "Según el PGC, si una empresa adquiere un edificio, ¿bajo qué principio contable se prohíbe modificar su valor en libros simplemente porque los precios del mercado inmobiliario hayan subido?",
+      "opciones": [
         "Principio de Precio de Adquisición / Coste Histórico.",
         "Principio de Importancia Relativa.",
         "Principio de Uniformidad de criterios aplicados."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
      
-      pregunta: "¿Qué principio contable obliga a aplicar los mismos criterios valorativos a lo largo del tiempo salvo que cambien las circunstancias que motivaron su elección?",
-      opciones: [
+     "pregunta":  "¿Qué principio contable obliga a aplicar los mismos criterios valorativos a lo largo del tiempo salvo que cambien las circunstancias que motivaron su elección?",
+      "opciones": [
         "Principio de Uniformidad.",
         "Principio de Empresa en Funcionamiento.",
         "Principio de No Compensación de saldos."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
       
-      pregunta: "Si el contable de una empresa decide omitir un pequeño error de redondeo de 0,05€ en el balance por carecer de relevancia en las cuentas, ¿qué principio ampara técnicamente su decisión?",
-      opciones: [
+      "pregunta":  "Si el contable de una empresa decide omitir un pequeño error de redondeo de 0,05€ en el balance por carecer de relevancia en las cuentas, ¿qué principio ampara técnicamente su decisión?",
+     "opciones": [
         "Principio de Importancia Relativa.",
         "Principio de Prudencia valorativa.",
         "Principio de Devengo temporal."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
       
-      pregunta: "El principio contable de Prudencia establece que los riesgos y pérdidas con origen en el ejercicio o en otro anterior deben registrarse:",
-      opciones: [
+      "pregunta":  "El principio contable de Prudencia establece que los riesgos y pérdidas con origen en el ejercicio o en otro anterior deben registrarse:",
+      "opciones": [
         "Tan pronto como sean conocidos, estimando su impacto con objetividad.",
         "Únicamente al cierre del ejercicio cuando la auditoría exterior lo exija.",
         "Solo cuando se hayan materializado mediante un desembolso monetario real."
       ],
-      correcta: 0
+     "correcta": 0
     },
 
        {
       
      
-      pregunta: "¿En qué gran masa patrimonial se debe clasificar una fianza constituida a favor de un tercero con vencimiento a 3 años?",
-      opciones: [
+     "pregunta":  "¿En qué gran masa patrimonial se debe clasificar una fianza constituida a favor de un tercero con vencimiento a 3 años?",
+      "opciones": [
         "Activo No Corriente, dentro de las inversiones financieras a largo plazo.",
         "Activo Corriente, en la masa de efectivo y otros activos líquidos.",
         "Pasivo No Corriente, por ser una obligación garantizada formalmente."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
             
-      pregunta: "¿A qué masa patrimonial específica pertenecen las deudas comerciales con proveedores que vencen a los 60 días?",
-      opciones: [
+     "pregunta": "¿A qué masa patrimonial específica pertenecen las deudas comerciales con proveedores que vencen a los 60 días?",
+     "opciones": [
         "Pasivo Corriente, al tratarse de obligaciones del ciclo operativo a corto plazo.",
         "Pasivo No Corriente, porque provienen de contratos mercantiles estables.",
         "Patrimonio Neto, ya que financian de modo continuo la actividad de almacén."
       ],
-      correcta: 0
+     "correcta": 0
     },
     {
-      
-      
-      pregunta: "Un camión de reparto adquirido por la empresa mediante compra directa se clasifica dentro del balance en:",
-      opciones: [
+            
+      "pregunta": "Un camión de reparto adquirido por la empresa mediante compra directa se clasifica dentro del balance en:",
+     "opciones": [
         "El Activo No Corriente, bajo el epígrafe de Inmovilizado Material.",
         "El Activo Corriente, ya que se desplaza constantemente de forma operativa.",
         "Los Gastos de Explotación del ejercicio en que se matriculó el vehículo."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
       
-      pregunta: "¿Cómo se clasifican las patentes y aplicaciones informáticas de propiedad corporativa en el balance?",
-      opciones: [
+      "pregunta":  "¿Cómo se clasifican las patentes y aplicaciones informáticas de propiedad corporativa en el balance?",
+      "opciones": [
         "Activo No Corriente, específicamente como Inmovilizado Intangible.",
         "Activo Corriente, al ser recursos tecnológicos fácilmente amortizables.",
         "Patrimonio Neto, porque forman parte de las reservas técnicas del negocio."
       ],
-      correcta: 0
+      "correcta": 0
     },
 
     
     {
       
       
-      pregunta: "Desde el punto de vista del circuito contable y mercantil, ¿cuál es la función de un albarán firmado por el cliente?",
-      opciones: [
+     "pregunta":  "Desde el punto de vista del circuito contable y mercantil, ¿cuál es la función de un albarán firmado por el cliente?",
+     "opciones": [
         "Justificar la entrega material de la mercancía, pero no sirve para registrar el asiento contable de venta.",
         "Servir de soporte legal y obligatorio para la liquidación directa de impuestos como el IVA.",
         "Sustituir formalmente a la factura en el caso de que la operación se realice al contado."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
       
-      pregunta: "¿Qué documento de cobro mercantil autoriza directamente al banco de la empresa a retirar fondos de la cuenta del comprador?",
-      opciones: [
+      "pregunta":  "¿Qué documento de cobro mercantil autoriza directamente al banco de la empresa a retirar fondos de la cuenta del comprador?",
+     "opciones": [
         "Una orden de domiciliación bancaria o recibo SEPA.",
         "Un presupuesto comercial validado y firmado.",
         "Un albarán de entrega con cláusula de reserva de dominio."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
             
-      pregunta: "Cuando un proveedor nos envía una factura rectificativa con signo negativo, ¿cuál es el motivo comercial habitual?",
-      opciones: [
+     "pregunta":  "Cuando un proveedor nos envía una factura rectificativa con signo negativo, ¿cuál es el motivo comercial habitual?",
+      "opciones": [
         "La concesión de un descuento posterior o la devolución de parte de las mercancías.",
         "La aplicación de un recargo por retraso en el pago acordado.",
         "El cobro anticipado de un pedido que aún no se ha fabricado en planta."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
-      pregunta: "¿Cuál es el plazo legal obligatorio para conservar los libros de contabilidad, correspondencia y justificantes de un negocio según el Código de Comercio?",
-      opciones: [
+    "pregunta":  "¿Cuál es el plazo legal obligatorio para conservar los libros de contabilidad, correspondencia y justificantes de un negocio según el Código de Comercio?",
+     "opciones": [
         "6 años a partir del último asiento realizado en los libros.",
         "4 años, coincidiendo exactamente con el plazo de prescripción fiscal general.",
         "10 años debido a las directivas comunitarias sobre blanqueo de capitales."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
-         pregunta: "En una factura de compra de mercaderías se incluye un descuento comercial en la propia factura. ¿Cómo debe registrarse este descuento en el diario?",
-      opciones: [
+       "pregunta":  "En una factura de compra de mercaderías se incluye un descuento comercial en la propia factura. ¿Cómo debe registrarse este descuento en el diario?",
+     "opciones": [
         "No se registra en ninguna cuenta independiente; disminuye directamente el importe de la compra en la cuenta (600).",
         "Se anota de forma separada en el Haber en la cuenta (609) 'Rappels por compras'.",
         "Se contabiliza en el Debe utilizando la cuenta (769) de ingresos financieros diversos."
       ],
-      correcta: 0
+      "correcta": 0
     },
     {
       
-      pregunta: "Si recibimos una factura del proveedor donde figura el gasto de transporte de las mercaderías facturado por él mismo, ¿dónde se asigna contablemente dicho transporte?",
-      opciones: [
+    "pregunta":  "Si recibimos una factura del proveedor donde figura el gasto de transporte de las mercaderías facturado por él mismo, ¿dónde se asigna contablemente dicho transporte?",
+     "opciones": [
         "Como mayor valor de las mercaderías adquiridas en la cuenta (600) 'Compras de mercaderías'.",
         "De forma separada e independiente en la cuenta (624) 'Transportes' como gasto de explotación.",
         "En la cuenta (602) de compras de otros aprovisionamientos exteriores."
       ],
-      correcta: 0
+      "correcta":0
     },
     {
       
-      pregunta: "Un proveedor nos concede un descuento por pronto pago FUERA de la factura de compra original. ¿Qué cuenta debemos emplear para registrarlo?",
-      opciones: [
+      "pregunta":  "Un proveedor nos concede un descuento por pronto pago FUERA de la factura de compra original. ¿Qué cuenta debemos emplear para registrarlo?",
+      "opciones": [
         "La cuenta (606) 'Descuentos sobre compras por pronto pago' en el Haber.",
 	"La cuenta (609) 'Rappels por compras' disminuyendo el saldo del proveedor.",
 	"La cuenta (765) 'Descuentos sobre ventas por pronto pago' en el Debe."
 	],
-	correcta: 0
+	"correcta": 0
 	},
   {
     
